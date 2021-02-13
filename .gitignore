@@ -4,5 +4,9 @@ static/public/index.min.js.LICENSE.txt
 static/public/styles.min.css
 static/public/styles.min.js
 
+static/node_modules/*
+
 # Content generated via 'manage.py collectstatic'
 static_root/*
+
+**/__pycache__
