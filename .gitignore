@@ -4,10 +4,16 @@ static/public/index.min.js.LICENSE.txt
 static/public/styles.min.css
 static/public/styles.min.js
 
+# Preserve static/public dir
+!static/public/README.md
+
 static/node_modules/*
+# Preserve static/node_modules dir 
+!static/node_modules/README.md
 
 # Content generated via 'manage.py collectstatic'
 static_root/*
+# Preserve static_root dir
 !static_root/README.md
 
 **/__pycache__
