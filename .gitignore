@@ -8,5 +8,6 @@ static/node_modules/*
 
 # Content generated via 'manage.py collectstatic'
 static_root/*
+!static_root/README.md
 
 **/__pycache__
