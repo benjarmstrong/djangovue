@@ -1,0 +1,8 @@
+# Content generated via 'npm run {dev/watch/production}'
+static/public/index.min.js
+static/public/index.min.js.LICENSE.txt
+static/public/styles.min.css
+static/public/styles.min.js
+
+# Content generated via 'manage.py collectstatic'
+static_root/*
